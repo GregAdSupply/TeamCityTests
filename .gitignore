@@ -1,0 +1,7 @@
+**/obj/
+**/bin/
+**/AppPackages/
+.vs/
+.teamcity/.idea/
+*.iml
+Clock.Desktop.Uwp/BundleArtifacts/
